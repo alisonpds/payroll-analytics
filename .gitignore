@@ -1,0 +1,25 @@
+# MacOS
+.DS_Store
+
+# PyCharm
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+
+# Ambiente virtual
+.venv/
+venv/
+
+# Logs
+logs/
+
+# Exportações
+exports/
+
+# Arquivos Excel
+*.xlsx
+
+# Arquivos CSV
+*.csv
